@@ -25,11 +25,6 @@ This project demonstrates basic game logic, UI interaction, and winner detection
 
 ---
 
-## 📷 Game Screenshot  
-*(Optional – ابعتلي Screenshot وأنا أضيفه)*
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
